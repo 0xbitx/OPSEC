@@ -38,6 +38,8 @@
 
 - Auto-Connecting to Wi-Fi: Disable auto-connect for Wi-Fi on your devices. You don’t want your phone hooking up to sketchy networks without you knowing. Always check and connect manually.
 
+- Turning Off Wi-Fi When Not in Use: Turn off Wi-Fi when you’re not using it. Attackers can see your previously connected Wi-Fi networks and potentially discover your physical location through wardriving.
+
 - Software Updates: Don’t slack on software updates. Keeping your OS and apps up to date patches security holes that hackers can exploit. Set your devices to update automatically if you can.
 
 - Bluetooth Security: Turn off Bluetooth when you’re not using it. Hackers can use it to send keystrokes or access your device without you even knowing. Keep it off and stay safe.
