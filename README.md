@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ3cnppeWx1MG5nenE3Y2Jvbm9nenhycWhod3RzZ2E0Y2hsdDQ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vWst8QUOKAot6MHEZe/giphy.gif", width="500", height="500">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lhOTgydGd4OXdhOWppZ2hxYmw1NDZlaWh0YjFiZm1wYWlyZDBtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0H7amEwdOgyeuqqBRH/giphy.gif", width="500", height="500">
 </p>
 
 <h1 align="center">Rookie OPSEC mistakes</h1>
