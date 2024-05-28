@@ -2,7 +2,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ3cnppeWx1MG5nenE3Y2Jvbm9nenhycWhod3RzZ2E0Y2hsdDQ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vWst8QUOKAot6MHEZe/giphy.gif", width="500", height="500">
 </p>
 
-<h1 align="center"> rookie OPSEC mistakes</h1>
+<h1 align="center">Rookie OPSEC mistakes</h1>
 
 <p align="center">
   <b>Yo, listen up! If you wanna keep your personal info safe and avoid any drama, you gotta steer clear of these rookie OPSEC mistakes
