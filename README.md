@@ -55,5 +55,9 @@
 - Secure Backup: Regularly back up your data, but make sure those backups are secure. Use encrypted drives or cloud services that offer strong security measures to keep your data safe from loss or theft.
 
 - Device Encryption: Encrypt your devices so that if they get stolen or lost, your data remains protected. Most modern smartphones and laptops have built-in encryption options – just make sure they’re turned on.
+  
+- Screen Sharing: Avoid screen sharing as it can lead to personal information leaks or accidentally share your identity. If you must share your screen, be mindful of what is visible and close any unnecessary tabs or documents.
+
+- Linking Personal Accounts: Don’t link your personal accounts or any IRL-related account info (like Spotify, Steam, etc.) on platforms like Discord. Keeping these accounts separate helps protect your privacy and prevent personal information leaks.
 
 Stick to these tips and keep your personal info on lockdown. Protect yourself and stay ahead of the game. Stay safe out there!
