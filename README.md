@@ -18,8 +18,6 @@
 
 - Weak Passwords: Quit it with the weak passwords. Go for something strong and unique for each account. None of that “password123” junk. Use a password manager if you have to, but keep your passwords tight.
 
-- Insecure Browsing Habits: Don’t be hitting up sensitive sites or checking your bank account on public Wi-Fi without a VPN. Hackers love that easy access. Protect your data like it’s gold.
-
 - Phishing Scams: Stay sharp with those sketchy emails. If it looks fishy, it probably is. Don’t be clicking random links or downloading weird attachments. Double-check the sender’s email address and think twice before you act.
 
 - Poor Disposal of Documents: When you’re done with papers that got personal info, shred ‘em. Don’t just toss ‘em in the trash where anyone can snatch ‘em. Protect your info from dumpster divers.
