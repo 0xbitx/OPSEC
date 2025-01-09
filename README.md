@@ -13,12 +13,15 @@
 
 - Sharing Too Much on Social Media: Chill with the oversharing on social media, bro. No need to post every detail about your job, where you’re headed, or what you’re up to. Creeps and scammers are always lurking, looking for that kinda info.
 
-- Work-Related Searches:
-    Avoid using your personal email for work-related Google searches. The feds can subpoena your account and pull out those searches.
+- Work-Related Searches: Avoid using your personal email for work-related Google searches. The feds can subpoena your account and pull out those searches.
 
 - Weak Passwords: Quit it with the weak passwords. Go for something strong and unique for each account. None of that “password123” junk. Use a password manager if you have to, but keep your passwords tight.
 
 - Phishing Scams: Stay sharp with those sketchy emails. If it looks fishy, it probably is. Don’t be clicking random links or downloading weird attachments. Double-check the sender’s email address and think twice before you act.
+
+- Insecure Browsing Habits: Don’t Ignore Browser Security Alerts When your browser warns you about a potentially unsafe website or an invalid SSL certificate, don’t bypass the alert. These warnings are there for a reason—they indicate that the site may be compromised, fake, or insecure. Ignoring them could expose you to phishing, malware, or data theft. Always prioritize safety over convenience and avoid proceeding to such sites.
+
+- Browsing on Public Wi-Fi: You Don’t Need a VPN to Secure Your Data—Just Use an Updated Browser and Force HTTPS Connections, Most websites today support HSTS (HTTP Strict Transport Security) and use HTTPS by default, which encrypts your data and protects it from eavesdropping or tampering. As long as you’re using an updated browser and ensure you’re connecting to websites over HTTPS, your data is secure even on public Wi-Fi. However, a VPN can still be useful for additional privacy or accessing restricted content. Always verify the padlock icon in your browser’s address bar to confirm a secure connection.
 
 - Poor Disposal of Documents: When you’re done with papers that got personal info, shred ‘em. Don’t just toss ‘em in the trash where anyone can snatch ‘em. Protect your info from dumpster divers.
 
