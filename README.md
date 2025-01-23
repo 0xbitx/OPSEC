@@ -86,6 +86,11 @@
   * Be cautious about sharing personal details in forums, comment sections, or online communities. Even seemingly harmless information can be pieced together to build a profile of you.
   * Use throwaway accounts for sensitive discussions.
 
+  Avoid Screen Sharing/Recording:
+  * Avoid screen sharing as it can lead to personal information leaks or accidentally expose your identity.
+  * when screen sharing on a smartphone or computer, you might accidentally reveal your connected Wi-Fi network name (SSID), a list of available Wi-Fi networks in your area, or even your device’s MAC address. Attackers can use this information to track your location through wardriving databases like WiGLE. If you must share your screen, be mindful of what is visible, close any unnecessary tabs, apps, or documents, and avoid navigating to network settings or sensitive information.
+  * The date and time displayed on your desktop or phone during screen sharing can also reveal your location. Many devices automatically set the time zone based on your geographical location. Example: If your screen shows a time zone like "GMT+2" or a city name like "New York," attackers can infer your country or region. This information, combined with other data, can be used to narrow down your exact location.
+
   Monitor Your Digital Footprint:
   * Use tools like Google Alerts to monitor mentions of your name, email, or other personal details online.
   * Regularly review and delete old accounts or posts that may expose sensitive information.
